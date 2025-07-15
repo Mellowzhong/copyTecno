@@ -1,0 +1,17 @@
+{
+    "source": {
+      "include": ["src"],
+      "includePattern": ".+\\.(js|jsx|jsdoc)$"
+    },
+    "opts": {
+        "destination": "docs",
+        "recurse": true,
+        "readme": "./DocsREADME.md"
+    },
+    "templates": {
+      "better-docs": {
+        "name": "React Docs"
+      }
+    }
+  }
+  

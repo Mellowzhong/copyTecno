@@ -1,1 +1,1 @@
-# copyTecno
+# TencoQuality
